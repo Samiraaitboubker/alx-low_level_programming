@@ -1,1 +1,1 @@
-0x18. C - Dynamic libraries
+this is for pointer arrays and strings project
