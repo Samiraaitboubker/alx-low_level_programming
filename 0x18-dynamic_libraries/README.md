@@ -1,1 +1,1 @@
-this is for pointer arrays and strings project
+his is 0x18 c
